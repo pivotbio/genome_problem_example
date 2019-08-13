@@ -1,0 +1,6 @@
+Django==2.2.4
+ipdb==0.12.2
+ipython==7.7.0
+pytest==5.0.1
+pytest-cov==2.7.1
+pytest-django==3.5.1
